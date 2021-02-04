@@ -8,5 +8,8 @@
 <body>
     <h1>coba remote</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt animi maiores atque quos. Nisi quae accusantium provident iure praesentium eveniet deleniti tempora reiciendis magnam beatae aliquam velit saepe, nihil illum.</p>
+    <ul>
+        <li>Halo</li>
+    </ul>
 </body>
 </html>
